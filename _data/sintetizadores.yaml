@@ -131,37 +131,66 @@ sintetizadores:
   - id: 19
     marca: "Bastl Instruments"
     modelo: "Microgranny MG 2"
-    categorias: ["sintetizador", "semimodular", "percusión", "analógico", "monofónico", "polifónico", "polirítmico"]
+    categorias: ["sampler", "monofónico"]
     enlaces: ["https://bastl-instruments.com/instruments/microgranny"]
     imagenes: ["bastl-instruments-01.jpeg"]
 
   - id: 20
+    marca: "Bastl Instruments"
+    modelo: "Microgranny MG 2"
+    categorias: ["sampler", "monofónico"]
+    enlaces: ["https://bastl-instruments.com/instruments/microgranny"]
+    imagenes: ["bastl-instruments-03.jpeg"]
+    
+  - id: 21
     marca: "Bastl Instruments"
     modelo: "Illuminati"
     categorias: ["sintetizador", "semimodular", "percusión", "analógico", "monofónico", "polifónico", "polirítmico"]
     enlaces: ["https://bastl-instruments.com/instruments/illuminati"]
     imagenes: ["bastl-instruments-02.jpeg"]
 
-  - id: 21
+  - id: 22
     marca: "Make Noise Music-01"
     modelo: "0-CTRL"
     categorias: ["sintetizador", "semimodular", "percusión", "analógico", "monofónico", "polifónico", "polirítmico"]
     enlaces: ["https://www.makenoisemusic.com/synthesizers-and-controllers/0-ctrl/"]
     imagenes: ["make-noise-music-01.jpeg"]
 
-  - id: 22
+  - id: 23
     marca: "Dunn Effects"
     modelo: "SubaQuatic"
     categorias: ["pedal"]
     enlaces: ["NO ENCONTRE"]
     imagenes: ["dunn-effects-01.jpeg"]
 
-  - id: 23
+  - id: 24
     marca: "Focusrite"
     modelo: "Clarett 4Pre"
     categorias: ["interfaz"]
     enlaces: ["https://focusrite.com/products/clarett-plus-4pre"]
     imagenes: ["focusrite-01.jpeg"]
+
+  - id: 25
+    marca: "Hikari Instruments"
+    modelo: "Monos CV"
+    categorias: ["sintetizador"]
+    enlaces: ["http://hikari-ins.shop-pro.jp/?pid=138476888"]
+    imagenes: ["hikari.instruments-01.jpeg"]
+
+  - id: 26
+    marca: "Oficina de Sonido"
+    modelo: "La Golden Acapulco Dub Siren"
+    categorias: ["sintetizador", "sampler", "monofónico", "analógico"]
+    enlaces: ["https://pablodelcielo.com/La-Golden-Acapulco-Sirena-Dub-Sampler"]
+    imagenes: ["oficina-de-sonido-01.jpeg"]
+
+ -  id: 27
+    marca: "Roger Linn Design"
+    modelo: "AdrenaLinn III"
+    categorias: ["procesador de efectos"]
+    enlaces: ["https://www.rogerlinndesign.com/about/adrenalinn"]
+    imagenes: ["roger-linn-01.jpeg"]
+
 
 
 
