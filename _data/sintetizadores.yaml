@@ -184,7 +184,7 @@ sintetizadores:
     enlaces: ["https://pablodelcielo.com/La-Golden-Acapulco-Sirena-Dub-Sampler"]
     imagenes: ["oficina-de-sonido-01.jpeg"]
 
- -  id: 27
+  - id: 27
     marca: "Roger Linn Design"
     modelo: "AdrenaLinn III"
     categorias: ["procesador de efectos"]
