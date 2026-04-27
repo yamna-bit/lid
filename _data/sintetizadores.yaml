@@ -175,7 +175,7 @@ sintetizadores:
     modelo: "Monos CV"
     categorias: ["sintetizador"]
     enlaces: ["http://hikari-ins.shop-pro.jp/?pid=138476888"]
-    imagenes: ["hikari.instruments-01.jpeg"]
+    imagenes: ["hikari-instruments-01.jpeg"]
 
   - id: 26
     marca: "Oficina de Sonido"
