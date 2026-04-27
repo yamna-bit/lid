@@ -140,7 +140,7 @@ sintetizadores:
     modelo: "Microgranny MG 2"
     categorias: ["sampler", "monofónico"]
     enlaces: ["https://bastl-instruments.com/instruments/microgranny"]
-    imagenes: ["bastl-instruments-03.jpeg"]
+    ["bastl-instruments-03.jpeg"]
     
   - id: 21
     marca: "Bastl Instruments"
@@ -152,9 +152,9 @@ sintetizadores:
   - id: 22
     marca: "Make Noise Music-01"
     modelo: "0-CTRL"
-    categorias: ["sintetizador", "semimodular", "percusión", "analógico", "monofónico", "polifónico", "polirítmico"]
+    categorias: ["secuenciador", "analógico", "controlador"]
     enlaces: ["https://www.makenoisemusic.com/synthesizers-and-controllers/0-ctrl/"]
-    imagenes: ["make-noise-music-01.jpeg"]
+    ["make-noise-music-01.jpeg"]
 
   - id: 23
     marca: "Dunn Effects"
