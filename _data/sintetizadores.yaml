@@ -191,6 +191,43 @@ sintetizadores:
     enlaces: ["https://www.rogerlinndesign.com/about/adrenalinn"]
     imagenes: ["roger-linn-01.jpeg"]
 
+  - id: 28
+    marca: "Floating Forest Pedals"
+    modelo: "Drifter"
+    categorias: ["pedal", "delay"]
+    enlaces: [" https://www.floatingforestpedals.com/shop/drifter"]
+    imagenes: ["floating-forest-pedals-01.jpeg"]
+
+  - id: 29
+    marca: "Critter and Guitari"
+    modelo: "Bolsa Bass"
+    categorias: ["sintetizador", "monofónico", "secuenciador"]
+    enlaces: ["https://www.critterandguitari.com/blog-tags/bolsa-bass"]
+    imagenes: ["critter-and-guitari-01.jpeg"]
+
+  - id: 30
+    marca: "Critter and Guitari"
+    modelo: "Pocket Piano"
+    categorias: ["sintetizador", "monofónico"]
+    enlaces: ["https://www.critterandguitari.com/pocket-piano"]
+    imagenes: ["critter-and-guitari-02.jpeg"]
+
+  - id: 31
+    marca: "Critter and Guitari"
+    modelo: "Kaleidoloop"
+    categorias: ["sampler", "looper"]
+    enlaces: ["https://www.critterandguitari.com/kaleidoloop"]
+    imagenes: ["critter-and-guitari-03.jpeg"]
+
+  - id: 32
+    marca: "Critter and Guitari"
+    modelo: "Kaleidoloop"
+    categorias: ["sampler", "looper"]
+    enlaces: ["https://www.critterandguitari.com/kaleidoloop"]
+    imagenes: ["critter-and-guitari-04.jpeg"]
+
+   
+
 
 
 
