@@ -140,7 +140,7 @@ sintetizadores:
     modelo: "Microgranny MG 2"
     categorias: ["sampler", "monofónico"]
     enlaces: ["https://bastl-instruments.com/instruments/microgranny"]
-    ["bastl-instruments-03.jpeg"]
+    imagenes: ["bastl-instruments-03.jpeg"]
     
   - id: 21
     marca: "Bastl Instruments"
@@ -154,7 +154,7 @@ sintetizadores:
     modelo: "0-CTRL"
     categorias: ["secuenciador", "analógico", "controlador"]
     enlaces: ["https://www.makenoisemusic.com/synthesizers-and-controllers/0-ctrl/"]
-    ["make-noise-music-01.jpeg"]
+    imagenes: ["make-noise-music-01.jpeg"]
 
   - id: 23
     marca: "Dunn Effects"
@@ -226,14 +226,4 @@ sintetizadores:
     enlaces: ["https://www.critterandguitari.com/kaleidoloop"]
     imagenes: ["critter-and-guitari-04.jpeg"]
 
-   
-
-
-
-
-
-
-
-
-    
 
